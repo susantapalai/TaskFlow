@@ -1,0 +1,19 @@
+# Global
+.env
+.env.local
+
+# Backend
+backend/target/
+backend/*.log
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
